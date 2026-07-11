@@ -161,6 +161,6 @@ It really helps!
 
 ---
 
-# 🚀 SUPER HUMAN Downloader
+# 🚀 YOUTUBE Downloader
 
 Fast • Beautiful • Powerful
